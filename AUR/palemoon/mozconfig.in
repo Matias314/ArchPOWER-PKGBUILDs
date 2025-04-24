@@ -20,7 +20,7 @@ ac_add_options --disable-necko-wifi
 ac_add_options --disable-updater
 ac_add_options --disable-gconf
 ac_add_options --with-pthreads
-# These 2 appear to be neccesairy on ArchPOWER 
+# These 2 appear to be necessary on ArchPOWER 
 ac_add_options --disable-gold
 ac_add_options --disable-precompiled-startupcache
   
